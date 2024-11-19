@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="IMG_2083.jpg"  />
-</div>
-
-###
 
 <h1 align="center">👋 Hi, Welcome to my Github Profile</h1>
 
@@ -73,8 +68,6 @@
   <a href="joshvavinay@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="8166512171" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
